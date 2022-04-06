@@ -2,7 +2,7 @@
 Made by Kes for no good reason
 
 Installation: 
-Extract to a new folder on the desktop, delete README.txt, drag and drop db, and user into main folder (Where server.exe is)
+Extract to a new folder on the desktop, delete README.txt, drag and drop db, and user into main server folder (Where server.exe is)
 Click "Ok" when asked to overwrite items
 
 Changes:
