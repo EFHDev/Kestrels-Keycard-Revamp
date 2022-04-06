@@ -1,0 +1,35 @@
+{
+	"_id": "kescard_labsviolet",
+	"areaType": 11,
+	"requirements": [
+		{
+			"areaType": 11,
+			"requiredLevel": 3,
+			"type": "Area"
+		},
+		{
+			"templateId": "Blankcard",
+			"count": 1,
+			"isFunctional": false,
+			"type": "Item"
+		},
+		{
+			"templateId": "5c1e495a86f7743109743dfb",
+			"count": 1,
+			"isFunctional": false,
+			"type": "Item"
+		},
+		{
+			"templateId": "TerragroupKey",
+			"count": 1,
+			"isFunctional": false,
+			"type": "Item"
+		}
+	],
+	"productionTime": 135399,
+	"boosters": null,
+	"endProduct": "5c1e495a86f7743109743dfb",
+	"continuous": false,
+	"count": 2,
+	"productionLimitCount": 0
+}

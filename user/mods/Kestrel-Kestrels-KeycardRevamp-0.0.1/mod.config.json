@@ -1,0 +1,23 @@
+{
+	"name": "Kestrels-KeycardRevamp",
+	"author": "Kestrel",
+	"version": "0.0.1",
+	"license": "MIT",
+	"checkUpdateUrl": "",
+	"autoUpdate": false,
+	"src": {
+		"src/modloader.js": "CacheModLoad"
+	},
+	"folders": [
+		"files/items",
+		"files/traders/ragfair",
+		"files/locales/en",
+		"files/templates"
+	],
+	"filenames": [
+		"Blankcard",
+		"TerragroupKey"
+	],
+	"required": [
+	]
+}
